@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2? Family= Pangolin & display=swap');
+
+.container {
+    display:flex;
+    margin: auto;
+    width: 1024px;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    list-style: none;
+}
+nav{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: rgb(117, 120, 122);
+}
+    
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: cornflowerblue;
+}
+    
+.t{
+    color: darkgray;
+} 
+.h{
+    color: dodgerblue;
+}
+.k{
+    background-color: darkblue;
+    color: beige;
+}
+.a{
+    text-align: center;
+}
+.d{
+    color: indianred;
+    text-align: center;
+}
+.x{
+    color: darkgray;
+    text-align: center;
+}
